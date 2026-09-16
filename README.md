@@ -1,6 +1,6 @@
 - Name: Joan Camilo Betancourt Gonzalez
 
-- Graphical representation of the system structure: Mirar ![System Structure.drawio.png](System Structure.drawio.png)
+- Graphical representation of the system structure: Mirar ![System Structure.drawio.png](https://github.com/CamiloBetancourtg/Swarch/blob/549969657687268e13b93b4828bea844d7f9ab90/System%20Structure.drawio.png)
 
 - 5 system properties:
 
