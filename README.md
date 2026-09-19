@@ -13,3 +13,7 @@
     4. Los datos ingresados al sistema pasan por un proceso secuencial, de forma que atraviesa diferentes controles antes de llegar a la base de datos.
 
     5. Gracias a la orquestación de docker, el sistema contiene todo el despliegue en un unico comando donde se ejecuta la base de datos y la aplicación.
+
+
+Para ejecutar el sistema, ponga en consola:
+- docker-compose up --build, esto correra el contenedor y el servidor para conectarse localmente. 
